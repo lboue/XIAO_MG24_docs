@@ -1,4 +1,4 @@
-# XIAO MG24 docs
+#  Seeed-Studio XIAO MG24 docs
 
 XIAO MG24 - Silicon Labs EFR32MG24, Matter® Native over Thread/BLE 5.3
 - Arduino Compatible, 5μA Ultra-Low-Power, On-Board Antenna, 19 GPIOs
