@@ -6,6 +6,8 @@ XIAO MG24 - Silicon Labs EFR32MG24, Matter® Native over Thread/BLE 5.3
 
 ## Pinout
 
+- [Pinout diagram](https://media-cdn.seeedstudio.com/media/wysiwyg/102010610HO2.jpg)
+
 | MG24 Pin |   | Arduino | i²C  | SPI   | Serial |
 |----------|---|---------|------|-------|--------|
 | PA00     |   |         |      | SCK1  |        |
