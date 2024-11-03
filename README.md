@@ -43,3 +43,4 @@ XIAO MG24 - Silicon Labs EFR32MG24, Matter® Native over Thread/BLE 5.3
 
 - [Silicon Labs Matter](https://docs.silabs.com/matter/latest/matter-start/)
 - [EFR32 Matter Application Examples](https://github.com/SiliconLabs/matter_applications)
+- [Silicon Labs Simplicity Studio Extension for Matter](https://github.com/SiliconLabs/matter_extension)
