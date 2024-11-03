@@ -38,3 +38,8 @@ XIAO MG24 - Silicon Labs EFR32MG24, Matter® Native over Thread/BLE 5.3
 ### Arduino
 
 - [Silicon Labs Arduino Core](https://github.com/SiliconLabs/arduino)
+
+### Silicon Labs
+
+- [Silicon Labs Matter](https://docs.silabs.com/matter/latest/matter-start/)
+- [EFR32 Matter Application Examples](https://github.com/SiliconLabs/matter_applications)
