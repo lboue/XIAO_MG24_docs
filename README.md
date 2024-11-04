@@ -19,6 +19,7 @@ XIAO MG24 - Silicon Labs EFR32MG24, Matter® Native over Thread/BLE 5.3
 | PA03     |   |         |      | SCK0  |        |        |
 | PA04     |   |         |      | MISO0 |        |        |
 | PA05     |   |         |      | MOSI0 |        |        |
+| PA07     |   |         |      |       |        | USER_LED |
 | PA08     |   | D12     |      |       |        |        |
 | PA09     |   | D11     |      |       |        |        |
 |          |   |         |      |       |        |        |
