@@ -11,28 +11,29 @@ XIAO MG24 - Silicon Labs EFR32MG24, Matter® Native over Thread/BLE 5.3
 
 - [Pinout diagram](https://media-cdn.seeedstudio.com/media/wysiwyg/102010610HO2.jpg)
 
-| MG24 Pin |   | Arduino | i²C  | SPI   | Serial |
-|----------|---|---------|------|-------|--------|
-| PA00     |   |         |      | SCK1  |        |
-| PA03     |   |         |      | SCK0  |        |
-| PA04     |   |         |      | MISO0 |        |
-| PA05     |   |         |      | MOSI0 |        |
-| PA08     |   | D12     |      |       |        |
-| PA09     |   | D11     |      |       |        |
-|          |   |         |      |       |        |
-| PB00     |   | D15     |      | MOSI1 |        |
-| PB01     |   | D16     |      | MISO1 |        |
-| PB02     |   | D13     | SCL1 |       |        |
-| PB03     |   | D14     | SDA1 |       |        |
-|          |   |         |      |       |        |
-| PC00     |   | D0      |      |       |        |
-| PC01     |   | D1      |      |       |        |
-| PC02     |   | D2      |      |       |        |
-| PC03     |   | D3      |      |       |        |
-| PC04     |   | D4      | SDA0 |       |        |
-| PC05     |   | D5      | SCL0 |       |        |
-| PC06     |   | D6      |      |       | TX0    |
-| PC07     |   | D7      |      |       | RX0    |
+| MG24 Pin |   | Arduino | i²C  | SPI   | Serial | Other  |
+|----------|---|---------|------|-------|--------|--------|
+| PA00     |   |         |      | SCK1  |        |        |
+| PA03     |   |         |      | SCK0  |        |        |
+| PA04     |   |         |      | MISO0 |        |        |
+| PA05     |   |         |      | MOSI0 |        |        |
+| PA08     |   | D12     |      |       |        |        |
+| PA09     |   | D11     |      |       |        |        |
+|          |   |         |      |       |        |        |
+| PB00     |   | D15     |      | MOSI1 |        |        |
+| PB01     |   | D16     |      | MISO1 |        |        |
+| PB02     |   | D13     | SCL1 |       |        |        |
+| PB03     |   | D14     | SDA1 |       |        |        |
+| PB04     |   |         |      |       |        |  RF SW |
+|          |   |         |      |       |        |        |
+| PC00     |   | D0      |      |       |        |        |
+| PC01     |   | D1      |      |       |        |        |
+| PC02     |   | D2      |      |       |        |        |
+| PC03     |   | D3      |      |       |        |        |
+| PC04     |   | D4      | SDA0 |       |        |        |
+| PC05     |   | D5      | SCL0 |       |        |        |
+| PC06     |   | D6      |      |       | TX0    |        |
+| PC07     |   | D7      |      |       | RX0    |        |
 
 ## Software
 
