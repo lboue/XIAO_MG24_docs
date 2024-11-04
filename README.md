@@ -7,6 +7,8 @@ XIAO MG24 - Silicon Labs EFR32MG24, Matter® Native over Thread/BLE 5.3
 
 ## Hardware
 
+- [Schematic](https://files.seeedstudio.com/wiki/XIAO_MG24/Getting_Start/XIAO_MG24_v1_0_SCH_PDF.pdf)
+
 ### Pinout
 
 - [Pinout diagram](https://media-cdn.seeedstudio.com/media/wysiwyg/102010610HO2.jpg)
