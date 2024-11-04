@@ -36,6 +36,9 @@ XIAO MG24 - Silicon Labs EFR32MG24, Matter® Native over Thread/BLE 5.3
 | PC05     |   | D5      | SCL0 |       |        |        |
 | PC06     |   | D6      |      |       | TX0    |        |
 | PC07     |   | D7      |      |       | RX0    |        |
+| PC08     |   |         |      |       |        | MIC_EN     |
+| PC09     |   |         |      |       |        | MIC_ADC    |
+
 
 ## Software
 
