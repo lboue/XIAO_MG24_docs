@@ -1,6 +1,7 @@
 /*
   Pin Multiplexing with Seeed Studio XIAO MG24
   https://wiki.seeedstudio.com/xiao_mg24_pin_multiplexing/
+  https://github.com/limengdu/XIAO_ST7789V2_LCD_Display/
 */
 
 #include <st7789v2.h>
